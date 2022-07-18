@@ -1,12 +1,16 @@
 {
 	"name": "fcc-learn-npm-package-json",
-	"author" : "Elif Nur Demir",
+	"author": "Elif Nur Demir",
 	"description": "part 1 of freecodecamp project ",
-	"keywords": [ "freecodecamp", "backend"],
+	"keywords": [
+		"freecodecamp",
+		"backend"
+	],
 	"license": " ",
 	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.14.0",
+		"moment": "^2.29.4"
 	},
 	"main": "server.js",
 	"scripts": {
