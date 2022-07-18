@@ -4,6 +4,7 @@
 	"description": "part 1 of freecodecamp project ",
 	"keywords": [ "freecodecamp", "backend"],
 	"license": " ",
+	"version": "1.0.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
